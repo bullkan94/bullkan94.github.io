@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024년 10월 21~27 러닝 계획
-date: 2024-10-14 00:00:00 +0900
+date: 2024-10-20 00:00:00 +0900
 category: running
 tags: ["running","plan"]
 ---
