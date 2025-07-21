@@ -1,0 +1,56 @@
+# Personal Exercise Blog Project Context
+
+This is a personal blog project hosted on GitHub for tracking exercise records, specifically running logs.
+
+## Technology Stack
+
+### Core Framework
+- **Jekyll 4.3.3** - Ruby-based static site generator
+- **Custom "Monos" theme** - Lightweight, self-developed theme
+- **GitHub Pages** compatible deployment
+
+### Frontend Technologies
+- **jQuery 3.4.1** for JavaScript interactions
+- **Bootstrap JavaScript components** for UI functionality
+- **Custom CSS** with Bootstrap-inspired variables and color system
+- **Rouge syntax highlighter** with Pygments CSS themes
+
+### Typography & Internationalization
+- **Google Fonts**: Ubuntu, Gelasio, Kulim Park, Nanum Myeongjo, Nanum Gothic, Noto Sans, Roboto
+- **Korean language support** with proper font integration
+- **Bilingual structure** (English framework, Korean content)
+
+### Content Structure
+- **Markdown posts** with YAML front matter
+- **Date-based permalink structure**: `/category/YYYY/MM/DD/title.html`
+- **Categories**: "running" for exercise logs
+- **Tags**: "running", "log" for content organization
+- **Structured exercise logging format** with weekly/daily logs
+
+### Architecture Characteristics
+- **Minimal dependencies** approach for lightweight performance
+- **Responsive sidebar layout** with mobile optimization
+- **Standard Jekyll directory structure**
+- **Custom includes** for modular templating
+- **Separation of content, layout, and styling**
+
+### Build & Deployment
+- **Jekyll Feed plugin** for RSS/Atom feeds
+- **Bundler** for Ruby gem management
+- **Windows-specific dependencies**: tzinfo gems
+- **SVG optimization** enabled
+- **GitHub Pages** ready configuration
+
+## Project Features
+- Exercise tracking blog focused on running
+- Korean language content with proper typography
+- Category and tag-based navigation
+- Clean, minimal design optimized for readability
+- Mobile-responsive design
+- Syntax highlighting with multiple theme options
+
+## Development Notes
+- Uses timezone: Asia/Seoul
+- Custom date format configuration
+- No pre-built theme dependencies
+- Standard Jekyll build process without additional tools like Webpack or Gulp
