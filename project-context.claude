@@ -12,13 +12,15 @@ This is a personal blog project hosted on GitHub for tracking exercise records, 
 ### Frontend Technologies
 - **jQuery 3.4.1** for JavaScript interactions
 - **Bootstrap JavaScript components** for UI functionality
-- **Custom CSS** with Bootstrap-inspired variables and color system
+- **Custom CSS** with pastel green theme and Bootstrap-inspired variables
 - **Rouge syntax highlighter** with Pygments CSS themes
+- **Mobile-first responsive design** with breakpoints for tablets and phones
 
 ### Typography & Internationalization
-- **Google Fonts**: Ubuntu, Gelasio, Kulim Park, Nanum Myeongjo, Nanum Gothic, Noto Sans, Roboto
+- **Google Fonts**: Inter, Noto Sans KR, Noto Serif KR (upgraded for modern readability)
 - **Korean language support** with proper font integration
 - **Bilingual structure** (English framework, Korean content)
+- **Mobile-optimized typography** with appropriate font sizes for different screen sizes
 
 ### Content Structure
 - **Markdown posts** with YAML front matter
@@ -45,9 +47,19 @@ This is a personal blog project hosted on GitHub for tracking exercise records, 
 - Exercise tracking blog focused on running
 - Korean language content with proper typography
 - Category and tag-based navigation
-- Clean, minimal design optimized for readability
-- Mobile-responsive design
+- **Pastel green theme** with enhanced readability
+- **Comprehensive mobile support** for iPhone, Galaxy, and other devices
+- **Touch-friendly navigation** and optimized content spacing
+- Clear heading hierarchy for structured content organization
 - Syntax highlighting with multiple theme options
+
+## Mobile Compatibility Requirements
+- **Primary target devices**: iPhone (various sizes), Samsung Galaxy series
+- **Responsive breakpoints**: 768px (tablets), 375px (small phones)
+- **Touch-friendly interface** with adequate tap targets
+- **Optimized font sizes** and spacing for mobile reading
+- **Sidebar transforms** to horizontal navigation on mobile
+- **Content prioritization** for smaller screens
 
 ## Development Notes
 - Uses timezone: Asia/Seoul
