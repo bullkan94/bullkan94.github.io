@@ -66,3 +66,7 @@ This is a personal blog project hosted on GitHub for tracking exercise records, 
 - Custom date format configuration
 - No pre-built theme dependencies
 - Standard Jekyll build process without additional tools like Webpack or Gulp
+
+## Context Update Instructions
+- **Automatic context updates**: When performing tasks that add new features, configurations, or significant changes to the project structure, update this project-context.claude file at the end of the task completion
+- **Context maintenance**: Keep this file updated with any new dependencies, architectural changes, or important project decisions made during development
