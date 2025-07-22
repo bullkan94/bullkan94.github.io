@@ -70,3 +70,6 @@ This is a personal blog project hosted on GitHub for tracking exercise records, 
 ## Context Update Instructions
 - **Automatic context updates**: When performing tasks that add new features, configurations, or significant changes to the project structure, update this project-context.claude file at the end of the task completion
 - **Context maintenance**: Keep this file updated with any new dependencies, architectural changes, or important project decisions made during development
+
+## Recent Updates
+- **Mobile Post Title Optimization** (2025-07-22): Added CSS rules to ensure post titles display as single lines on mobile devices with ellipsis for overflow, improving mobile readability and preventing title text wrapping
