@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2025년 9월 1주차 러닝 로그
-date: 2025-09-14 15:38:12 +0900
+date: 2025-09-07 15:38:12 +0900
 category: running
 tags: [running,log]
 ---
