@@ -46,6 +46,7 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+permalink: /:categories/:name.html
 timezone: Asia/Seoul
 url: "https://bullkan94.github.io/"
 
