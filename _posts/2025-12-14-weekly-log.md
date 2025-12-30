@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2025년 12월 2주차 러닝 로그
+title: 2025년 12월 2주차 운동 로그
 date: 2025-12-14 21:40:00 +0900
-category: running
-tags: [running,log]
+category: fitness
+tags: [fitness,log]
 ---
 # 훈련 종류
 ## 달리기

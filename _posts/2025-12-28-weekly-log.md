@@ -2,8 +2,8 @@
 layout: post
 title: 2025년 12월 4주차 운동 로그
 date: 2025-12-29 18:45:00 +0900
-category: running
-tags: [running,log]
+category: fitness
+tags: [fitness,log]
 ---
 # 훈련 종류
 ## 달리기
