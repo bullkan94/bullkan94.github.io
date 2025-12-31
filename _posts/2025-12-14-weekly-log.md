@@ -5,7 +5,7 @@ date: 2025-12-14 21:40:00 +0900
 category: fitness
 tags: [fitness,log]
 ---
-# 훈련 종류
+# 운동 종류
 ## 달리기
 ### 요일
 월 (5.01 km), 목 (5.21 km) 일 (5.28 km)
